@@ -1,0 +1,90 @@
+{
+    "music-types": [
+    {
+        "type": "Classical",
+        "id": "1",
+        "playlists": [
+
+        ]
+    },
+	{
+        "type": "Hip-Hop,Rap",
+        "id": "2",
+        "playlists": [
+            
+        ]
+    },
+    {
+	    "type": "Reggae",
+        "id": "3",
+        "playlists": [
+            
+        ]
+    },
+    {
+	    "type": "Blues",
+        "id": "4",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Jazz",
+        "id": "5",
+        "playlists": [
+            "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=3b0f2f9431bc4fda",
+            "https://open.spotify.com/playlist/4jOqGKvV7iu0ojea2pt9Te?si=2333bf065f874d48"
+        ]
+    },
+    {
+        "type": "Rock",
+        "id": "6",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Metal",
+        "id": "7",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Pop",
+        "id": "8",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Folk",
+        "id": "9",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "House",
+        "id": "10",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Techno",
+        "id": "11",
+        "playlists": [
+            
+        ]
+    },
+    {
+        "type": "Ambient",
+        "id": "12",
+        "playlists": [
+            
+        ]
+    }
+    ]
+
+}
