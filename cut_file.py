@@ -8,7 +8,7 @@ Created on Mon Oct 17 18:44:21 2022
 from pydub import AudioSegment
 import sys, getopt
 
-def cut_file(inputfile, outputfile, duration):
+def cut_file(inputfile, duration):
     try:
         segment = AudioSegment.from_wav(inputfile)
     except FileNotFoundError:
@@ -28,9 +28,7 @@ def cut_file(inputfile, outputfile, duration):
     print("End:", end / 1000)
     
     chunk = segment[start:end]
-    chunk.export(outputfile, format="wav")
-    
-    return
+    return chunk
 
 def printUsage():
     print("Usage : cut_data2 -i <input> -o <output> -d <duration>")
@@ -40,8 +38,10 @@ def main(argv):
     outputfile = ''
     duration = 0
     
+    commands = "hi:o:d:"
+    full_commands = ["input=", "output=", "duration="]
     try:
-        opts, args = getopt.getopt(argv,"hi:o:d:",["input=", "output=", "duration="])
+        opts, args = getopt.getopt(argv, commands, full_commands)
     except getopt.GetoptError:
         printUsage()
         sys.exit(2)
@@ -60,7 +60,8 @@ def main(argv):
         printUsage()
         sys.exit(2)
         
-    cut_file(inputfile, outputfile, duration)
+    chunk = cut_file(inputfile, duration)    
+    chunk.export(outputfile, format="wav")
 
 if __name__ == "__main__":
     main(sys.argv[1:])

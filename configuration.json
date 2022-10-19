@@ -1,85 +1,84 @@
 {
-    "music-types": [
+    "music_styles": [
     {
-        "type": "Classical",
+        "name": "Classical",
         "id": "1",
         "playlists": [
-
+            "https://open.spotify.com/playlist/5JtXvdvrsuZdRsOO6wnj1a?si=023ce4834e424017",
+            "https://open.spotify.com/playlist/0wr5lXOZTaxRkB06iyeCES?si=6535f45962e64929"
         ]
     },
 	{
-        "type": "Hip-Hop,Rap",
+        "name": "Hip-Hop,Rap",
         "id": "2",
         "playlists": [
             
         ]
     },
     {
-	    "type": "Reggae",
+	    "name": "Reggae",
         "id": "3",
         "playlists": [
             
         ]
     },
     {
-	    "type": "Blues",
+	    "name": "Blues",
         "id": "4",
         "playlists": [
             
         ]
     },
     {
-        "type": "Jazz",
+        "name": "Jazz",
         "id": "5",
         "playlists": [
-            "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=3b0f2f9431bc4fda",
-            "https://open.spotify.com/playlist/4jOqGKvV7iu0ojea2pt9Te?si=2333bf065f874d48"
+
         ]
     },
     {
-        "type": "Rock",
+        "name": "Rock",
         "id": "6",
         "playlists": [
-            
         ]
     },
     {
-        "type": "Metal",
+        "name": "Metal",
         "id": "7",
         "playlists": [
             
         ]
     },
     {
-        "type": "Pop",
+        "name": "Pop",
         "id": "8",
         "playlists": [
             
         ]
     },
     {
-        "type": "Folk",
+        "name": "Folk",
         "id": "9",
         "playlists": [
             
         ]
     },
     {
-        "type": "House",
+        "name": "House",
         "id": "10",
         "playlists": [
             
         ]
     },
     {
-        "type": "Techno",
+        "name": "Techno",
         "id": "11",
         "playlists": [
             
         ]
     },
     {
-        "type": "Ambient",
+        "name": "Ambient",
         "id": "12",
         "playlists": [
             
