@@ -8,6 +8,9 @@ Created on Mon Oct 17 18:44:21 2022
 from pydub import AudioSegment
 import sys, getopt
 
+def save_chunk(chunk, output_path, format):
+    chunk.export(output_path, format=format)
+
 def cut_file(inputfile, duration):
     try:
         segment = AudioSegment.from_wav(inputfile)
@@ -15,17 +18,17 @@ def cut_file(inputfile, duration):
         print("File not found :", inputfile)
         sys.exit(3)
     
-    print("Information:")
-    print("* Channels:", segment.channels)
-    print("* Bits per sample:", segment.sample_width * 8)
-    print("* Sampling frequency:", segment.frame_rate)
-    print("* Length:", segment.duration_seconds, "seconds")
+    #print("Information:")
+    #print("* Channels:", segment.channels)
+    #print("* Bits per sample:", segment.sample_width * 8)
+    #print("* Sampling frequency:", segment.frame_rate)
+    #print("* Length:", segment.duration_seconds, "seconds")
     
     start = int(segment.duration_seconds / 3) * 1000
     end = start + duration * 1000
     
-    print("Start:", start / 1000)
-    print("End:", end / 1000)
+    #print("Start:", start / 1000)
+    #print("End:", end / 1000)
     
     chunk = segment[start:end]
     return chunk
