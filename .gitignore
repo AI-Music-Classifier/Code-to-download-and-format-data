@@ -2,4 +2,4 @@ tmp
 data
 
 __pycache__
-.cache
+*.cache
