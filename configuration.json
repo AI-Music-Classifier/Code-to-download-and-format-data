@@ -4,84 +4,84 @@
         "name": "Classical",
         "id": "1",
         "playlists": [
-            "https://open.spotify.com/playlist/5JtXvdvrsuZdRsOO6wnj1a?si=023ce4834e424017",
-            "https://open.spotify.com/playlist/0wr5lXOZTaxRkB06iyeCES?si=6535f45962e64929"
+            "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=02ef324c3e47414f"
         ]
     },
 	{
         "name": "Hip-Hop,Rap",
         "id": "2",
         "playlists": [
-            "https://open.spotify.com/playlist/0KQMHIZ3IXRBvsHmPHyGnk?si=199f49a8f54f4f17"
+            "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=7f1eb829805e4eb8"
         ]
     },
     {
 	    "name": "Reggae",
         "id": "3",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1DXbSbnqxMTGx9?si=8c1e0c049fc740e8"
         ]
     },
     {
 	    "name": "Blues",
         "id": "4",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=1dae8bf82c47408f"
         ]
     },
     {
         "name": "Jazz",
         "id": "5",
         "playlists": [
-
+            "https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt?si=d6f2a50cb3cb4c5b"
         ]
     },
     {
         "name": "Rock",
         "id": "6",
         "playlists": [
+            "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=17577dde7bf74727"
         ]
     },
     {
         "name": "Metal",
         "id": "7",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=f7f6b36da6774ca5"
         ]
     },
     {
         "name": "Pop",
         "id": "8",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7?si=e5918b93d2ec4a73"
         ]
     },
     {
         "name": "Folk",
         "id": "9",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv?si=dd4a3ad6a9fd4064"
         ]
     },
     {
         "name": "House",
         "id": "10",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e?si=a19fe25882284b55"
         ]
     },
     {
         "name": "Techno",
         "id": "11",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1EIeKh45OZ1ylm?si=e5dcae310663418c"
         ]
     },
     {
         "name": "Ambient",
         "id": "12",
         "playlists": [
-            
+            "https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz?si=b3a1927a74c24831"
         ]
     }
     ]
