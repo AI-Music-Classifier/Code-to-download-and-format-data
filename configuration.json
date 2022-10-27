@@ -4,23 +4,32 @@
             "name": "Classical",
             "id": "1",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=02ef324c3e47414f"
+                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=02ef324c3e47414f",
+                "https://open.spotify.com/playlist/7IFEOepzcIUmsD5aUTivyX",
+                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0"
+                
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=02ef324c3e47414f"
+                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=02ef324c3e47414f",
+                "https://open.spotify.com/playlist/7IFEOepzcIUmsD5aUTivyX",
+                "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0"
             ],
-            "downloaded_songs": 53
+            "downloaded_songs": 167
         },
         {
             "name": "Hip-Hop,Rap",
             "id": "2",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=7f1eb829805e4eb8"
+                "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=7f1eb829805e4eb8",
+                "https://open.spotify.com/playlist/6zwzUWggc400vkquQM7QwK",
+                "https://open.spotify.com/playlist/3KRfql3T5a5VJLWG3YoG9d"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=7f1eb829805e4eb8"
+                "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=7f1eb829805e4eb8",
+                "https://open.spotify.com/playlist/6zwzUWggc400vkquQM7QwK",
+                "https://open.spotify.com/playlist/3KRfql3T5a5VJLWG3YoG9d"
             ],
-            "downloaded_songs": 50
+            "downloaded_songs": 406
         },
         {
             "name": "Reggae",
@@ -31,18 +40,20 @@
             "downloaded_playlists": [
                 "https://open.spotify.com/playlist/37i9dQZF1DXbSbnqxMTGx9?si=8c1e0c049fc740e8"
             ],
-            "downloaded_songs": 249
+            "downloaded_songs": 250
         },
         {
             "name": "Blues",
             "id": "4",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=1dae8bf82c47408f"
+                "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=1dae8bf82c47408f",
+                "https://open.spotify.com/playlist/37i9dQZF1DXcc6f6HRuPnq"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=1dae8bf82c47408f"
+                "https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=1dae8bf82c47408f",
+                "https://open.spotify.com/playlist/37i9dQZF1DXcc6f6HRuPnq"
             ],
-            "downloaded_songs": 69
+            "downloaded_songs": 169
         },
         {
             "name": "Jazz",
@@ -53,85 +64,102 @@
             "downloaded_playlists": [
                 "https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt?si=d6f2a50cb3cb4c5b"
             ],
-            "downloaded_songs": 198
+            "downloaded_songs": 199
         },
         {
             "name": "Rock",
             "id": "6",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=17577dde7bf74727"
+                "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=17577dde7bf74727",
+                "https://open.spotify.com/playlist/4jOqGKvV7iu0ojea2pt9Te"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=17577dde7bf74727"
+                "https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7?si=17577dde7bf74727",
+                "https://open.spotify.com/playlist/4jOqGKvV7iu0ojea2pt9Te"
             ],
-            "downloaded_songs": 79
+            "downloaded_songs": 312
         },
         {
             "name": "Metal",
             "id": "7",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=f7f6b36da6774ca5"
+                "https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=f7f6b36da6774ca5",
+                "https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=f7f6b36da6774ca5"
+                "https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=f7f6b36da6774ca5",
+                "https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe"
             ],
-            "downloaded_songs": 99
+            "downloaded_songs": 299
         },
         {
             "name": "Pop",
             "id": "8",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7?si=e5918b93d2ec4a73"
+                "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7?si=e5918b93d2ec4a73",
+                "https://open.spotify.com/playlist/6mtYuOxzl58vSGnEDtZ9uB"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7?si=e5918b93d2ec4a73"
+                "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7?si=e5918b93d2ec4a73",
+                "https://open.spotify.com/playlist/6mtYuOxzl58vSGnEDtZ9uB"
             ],
-            "downloaded_songs": 49
+            "downloaded_songs": 374
         },
         {
             "name": "Folk",
             "id": "9",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv?si=dd4a3ad6a9fd4064"
+                "https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv?si=dd4a3ad6a9fd4064",
+                "https://open.spotify.com/playlist/37i9dQZF1DWVl5gPCRkquk"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv?si=dd4a3ad6a9fd4064"
+                "https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv?si=dd4a3ad6a9fd4064",
+                "https://open.spotify.com/playlist/37i9dQZF1DWVl5gPCRkquk"
             ],
-            "downloaded_songs": 108
+            "downloaded_songs": 208
         },
         {
             "name": "House",
             "id": "10",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e?si=a19fe25882284b55"
+                "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e?si=a19fe25882284b55",
+                "https://open.spotify.com/playlist/7bu7BZEusLNJSaAuUUZBKn"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e?si=a19fe25882284b55"
+                "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e?si=a19fe25882284b55",
+                "https://open.spotify.com/playlist/7bu7BZEusLNJSaAuUUZBKn"
             ],
-            "downloaded_songs": 49
+            "downloaded_songs": 150
         },
         {
             "name": "Techno",
             "id": "11",
             "playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EIeKh45OZ1ylm?si=e5dcae310663418c"
+                "https://open.spotify.com/playlist/37i9dQZF1EIeKh45OZ1ylm?si=e5dcae310663418c",
+                "https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675",
+                "https://open.spotify.com/playlist/1WJwx5YU6SQQm7S1Eam5gu"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1EIeKh45OZ1ylm?si=e5dcae310663418c"
+                "https://open.spotify.com/playlist/37i9dQZF1EIeKh45OZ1ylm?si=e5dcae310663418c",
+                "https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675",
+                "https://open.spotify.com/playlist/1WJwx5YU6SQQm7S1Eam5gu"
             ],
-            "downloaded_songs": 49
+            "downloaded_songs": 217
         },
         {
             "name": "Ambient",
             "id": "12",
             "playlists": [
                 "https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz?si=b3a1927a74c24831",
-                "https://open.spotify.com/playlist/6b46WOV7cI3lOcDf0ZU1FL?si=2f32b766ee184969"
+                "https://open.spotify.com/playlist/6b46WOV7cI3lOcDf0ZU1FL?si=2f32b766ee184969",
+                "https://open.spotify.com/playlist/49RyM6nIP0XFlwy69nUoz9"
             ],
             "downloaded_playlists": [
-                "https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz?si=b3a1927a74c24831"
+                "https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz?si=b3a1927a74c24831",
+                "https://open.spotify.com/playlist/6b46WOV7cI3lOcDf0ZU1FL?si=2f32b766ee184969",
+                "https://open.spotify.com/playlist/49RyM6nIP0XFlwy69nUoz9"
             ],
-            "downloaded_songs": 19
+            "downloaded_songs": 457
         }
     ]
 }
